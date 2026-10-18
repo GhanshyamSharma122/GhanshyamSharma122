@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/GhanshyamSharma122"><img src="https://img.shields.io/badge/GitHub-GhanshyamSharma122-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://shareany.me"><img src="https://img.shields.io/badge/Live_Project-ShareAny-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="ShareAny live project" /></a>
+  <a href="https://exnoteshare.vercel.app"><img src="https://img.shields.io/badge/Live_Project-ShareAny-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="ShareAny live project" /></a>
   <a href="https://cloud.layer5.io/user/7661e4ba-f608-450d-929f-c9ebe1ca8886?tab=badges&badge=first-design"><img src="https://img.shields.io/badge/Layer5-First_Design-7C3AED?style=for-the-badge" alt="Layer5 First Design badge" /></a>
 </p>
 
@@ -59,7 +59,7 @@ MISSION -> Make useful things, and understand how they work
         <li>MongoDB metadata, Cloudinary storage, and automatic cleanup</li>
       </ul>
       <p><sub>React · TypeScript · Node.js · Express · MongoDB · Cloudinary</sub></p>
-      <a href="https://shareany.me">Live app →</a> · <a href="https://github.com/GhanshyamSharma122/shareany">Source code →</a>
+      <a href="https://exnoteshare.vercel.app">Live app →</a> · <a href="https://github.com/GhanshyamSharma122/shareany">Source code →</a>
     </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ MISSION -> Make useful things, and understand how they work
 
 <p align="center">
   <a href="https://github.com/GhanshyamSharma122"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://shareany.me"><img src="https://img.shields.io/badge/ShareAny-Try%20the%20app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="ShareAny" /></a>
+  <a href="https://exnoteshare.vercel.app"><img src="https://img.shields.io/badge/ShareAny-Try%20the%20app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="ShareAny" /></a>
   <!-- Add your LinkedIn URL here if you want a professional contact link. -->
 </p>
 
