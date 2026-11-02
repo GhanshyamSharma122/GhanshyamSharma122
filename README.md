@@ -123,11 +123,11 @@ I'm continuously expanding my skills through projects, experimentation, and hand
 <div align="center">
 
 <a href="https://github.com/GhanshyamSharma122">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GhanshyamSharma122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=GhanshyamSharma122&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/GhanshyamSharma122">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshyamSharma122&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Most-used programming languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GhanshyamSharma122&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=6" alt="Most-used programming languages" />
 </a>
 
 </div>
